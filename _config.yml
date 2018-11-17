@@ -9,7 +9,7 @@ name: Amit Samanta
 description: Webpage
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: jekyll-now-theme-screenshot.jpg
+avatar: /images/jekyll-now-theme-screenshot.jpg
 
 #
 # Flags below are optional
