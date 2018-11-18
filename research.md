@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Refereed Conference Publications
+#### Refereed Conference Publications
 
 1. **Amit Samanta**, and Yong Li.
    Distributed Pricing Policy for Cloud-Assisted Body-to-Body Networks with Optimal QoS and Energy Considerations .
