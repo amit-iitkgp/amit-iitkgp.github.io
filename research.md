@@ -3,6 +3,8 @@ layout: page
 permalink: /research/
 ---
 
+
+
 # Refereed Conference Publications
 
 1. [Distributed Pricing Policy for Cloud-Assisted Body-to-Body Networks with Optimal QoS and Energy Considerations](https://ieeexplore.ieee.org/document/8368320/)<br>
