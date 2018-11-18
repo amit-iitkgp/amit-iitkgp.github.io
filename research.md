@@ -2,7 +2,6 @@
 layout: page
 permalink: /research/
 ---
-# Projects
 
 **Ongoing:**
 
